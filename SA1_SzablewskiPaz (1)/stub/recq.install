@@ -1,0 +1,35 @@
+lib: [
+  "_build/install/default/lib/recq/META" {"META"}
+  "_build/install/default/lib/recq/ast.ml" {"ast.ml"}
+  "_build/install/default/lib/recq/ds.ml" {"ds.ml"}
+  "_build/install/default/lib/recq/interp.ml" {"interp.ml"}
+  "_build/install/default/lib/recq/lexer.ml" {"lexer.ml"}
+  "_build/install/default/lib/recq/opam" {"opam"}
+  "_build/install/default/lib/recq/parser.ml" {"parser.ml"}
+  "_build/install/default/lib/recq/parser.mli" {"parser.mli"}
+  "_build/install/default/lib/recq/recq.a" {"recq.a"}
+  "_build/install/default/lib/recq/recq.cma" {"recq.cma"}
+  "_build/install/default/lib/recq/recq.cmi" {"recq.cmi"}
+  "_build/install/default/lib/recq/recq.cmt" {"recq.cmt"}
+  "_build/install/default/lib/recq/recq.cmx" {"recq.cmx"}
+  "_build/install/default/lib/recq/recq.cmxa" {"recq.cmxa"}
+  "_build/install/default/lib/recq/recq.cmxs" {"recq.cmxs"}
+  "_build/install/default/lib/recq/recq.dune" {"recq.dune"}
+  "_build/install/default/lib/recq/recq.ml-gen" {"recq.ml-gen"}
+  "_build/install/default/lib/recq/recq__Ast.cmi" {"recq__Ast.cmi"}
+  "_build/install/default/lib/recq/recq__Ast.cmt" {"recq__Ast.cmt"}
+  "_build/install/default/lib/recq/recq__Ast.cmx" {"recq__Ast.cmx"}
+  "_build/install/default/lib/recq/recq__Ds.cmi" {"recq__Ds.cmi"}
+  "_build/install/default/lib/recq/recq__Ds.cmt" {"recq__Ds.cmt"}
+  "_build/install/default/lib/recq/recq__Ds.cmx" {"recq__Ds.cmx"}
+  "_build/install/default/lib/recq/recq__Interp.cmi" {"recq__Interp.cmi"}
+  "_build/install/default/lib/recq/recq__Interp.cmt" {"recq__Interp.cmt"}
+  "_build/install/default/lib/recq/recq__Interp.cmx" {"recq__Interp.cmx"}
+  "_build/install/default/lib/recq/recq__Lexer.cmi" {"recq__Lexer.cmi"}
+  "_build/install/default/lib/recq/recq__Lexer.cmt" {"recq__Lexer.cmt"}
+  "_build/install/default/lib/recq/recq__Lexer.cmx" {"recq__Lexer.cmx"}
+  "_build/install/default/lib/recq/recq__Parser.cmi" {"recq__Parser.cmi"}
+  "_build/install/default/lib/recq/recq__Parser.cmt" {"recq__Parser.cmt"}
+  "_build/install/default/lib/recq/recq__Parser.cmti" {"recq__Parser.cmti"}
+  "_build/install/default/lib/recq/recq__Parser.cmx" {"recq__Parser.cmx"}
+]
